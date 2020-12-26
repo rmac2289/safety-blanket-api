@@ -14,7 +14,7 @@ const typeDefs = gql`
 
   type Query {
     agencies: [Department]
-    agencies_by_city(city: String): [Department]
+    agencies_by_city(city: String, county: String): [Department]
   }
 `;
 
@@ -23,8 +23,11 @@ const resolvers = {
     agencies: () => {
       return departments;
     },
-    agencies_by_city: (obj, { city }, context, info) => {
-      const matchingAgencies = departments.filter((v) => v.city === city);
+    agencies_by_city: (obj, { city, county }, context, info) => {
+      const matchingAgencies = departments.filter(
+        (v) =>
+          v.city === city || (v.county === county && v.agency.includes("iff"))
+      );
       return matchingAgencies;
     },
   },
