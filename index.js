@@ -26,7 +26,8 @@ const resolvers = {
     agencies_by_city: (obj, { city, county }, context, info) => {
       const matchingAgencies = departments.filter(
         (v) =>
-          v.city === city || (v.county === county && v.agency.includes("iff"))
+          v.city === city ||
+          (v.agency.includes(county) && !v.agency.includes("("))
       );
       return matchingAgencies;
     },
