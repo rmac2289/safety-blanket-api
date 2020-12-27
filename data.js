@@ -1,7 +1,7 @@
 const departments = [
   {
     agency: "Oregon State Police",
-    phone: "8004420776",
+    phone: "*677",
     street: "3565 Trelstad Avenue SE",
     city: "Salem",
     state: "OR",
@@ -242,7 +242,7 @@ const departments = [
     zip: 94041,
   },
   {
-    agency: "Santa Clara Couty Sheriff's Office",
+    agency: "Santa Clara County Sheriff's Office",
     phone: "4088084400",
     street: "55 West Younger Avenue",
     city: "San Jose",
