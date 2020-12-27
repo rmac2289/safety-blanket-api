@@ -1,8 +1,11 @@
 const { ApolloServer, gql } = require("apollo-server");
 const { departments } = require("./data");
+require("dotenv").config();
+require("./config");
+const { Agency } = require("./models");
 
 const typeDefs = gql`
-  type Department {
+  type Agency {
     id: ID
     agency: String
     phone: String
@@ -13,25 +16,47 @@ const typeDefs = gql`
   }
 
   type Query {
-    agencies: [Department]
-    agencies_by_city(city: String, county: String): [Department]
+    agencies: [Agency]
+    agencies_by_city(city: String, county: String): [Agency]
+  }
+  type Mutation {
+    addAgencies(
+      agency: String!
+      phone: String!
+      street: String!
+      city: String!
+      state: String!
+      zip: Int!
+    ): Agency
   }
 `;
 
 const resolvers = {
   Query: {
-    agencies: () => {
-      return departments;
-    },
-    agencies_by_city: (obj, { city, county }, context, info) => {
-      const matchingAgencies = departments.filter(
-        (v) =>
-          v.city === city ||
-          (v.agency.includes(county) && !v.agency.includes("("))
-      );
-      return matchingAgencies;
-    },
+    agencies: async () => await Agency.find({}).exec(),
   },
+  //   agencies_by_city: (obj, { city, county }, context, info) => {
+  //     const matchingAgencies = departments.filter(
+  //       (v) =>
+  //         v.city === city ||
+  //         (v.agency.includes(county) && !v.agency.includes("("))
+  //     );
+  //     return matchingAgencies;
+  //   },
+  //   Mutation: {
+  //     addAgencies: async () => {
+  //       try {
+  //         return departments.map(async (v) => {
+  //           return await Agency.create(v);
+  //         });
+  //         // let response = await Agency.create(departments);
+  //         // console.log(departments);
+  //         // return response;
+  //       } catch (error) {
+  //         return error.message;
+  //       }
+  //     },
+  //   },
 };
 
 const server = new ApolloServer({
