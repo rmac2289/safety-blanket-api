@@ -1,5 +1,4 @@
 const { ApolloServer, gql } = require("apollo-server");
-const { departments } = require("./data");
 require("dotenv").config();
 require("./config");
 const { Agency } = require("./models");
