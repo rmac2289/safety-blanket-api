@@ -1,66 +1,14 @@
-const { ApolloServer, gql } = require("apollo-server");
+const { ApolloServer } = require("apollo-server");
+const { merge } = require("lodash");
 require("dotenv").config();
 require("./config");
-const { Agency } = require("./models");
-
-const typeDefs = gql`
-  type Agency {
-    id: ID
-    agency: String
-    phone: String
-    street: String
-    city: String
-    state: String
-    zip: Int
-  }
-
-  type Query {
-    agencies: [Agency]
-    agencies_by_city(city: String, county: String): [Agency]
-  }
-  type Mutation {
-    addAgencies(
-      agency: String!
-      phone: String!
-      street: String!
-      city: String!
-      state: String!
-      zip: Int!
-    ): Agency
-  }
-`;
-
-const resolvers = {
-  Query: {
-    agencies: async () => await Agency.find({}).exec(),
-  },
-  //   agencies_by_city: (obj, { city, county }, context, info) => {
-  //     const matchingAgencies = departments.filter(
-  //       (v) =>
-  //         v.city === city ||
-  //         (v.agency.includes(county) && !v.agency.includes("("))
-  //     );
-  //     return matchingAgencies;
-  //   },
-  //   Mutation: {
-  //     addAgencies: async () => {
-  //       try {
-  //         return departments.map(async (v) => {
-  //           return await Agency.create(v);
-  //         });
-  //         // let response = await Agency.create(departments);
-  //         // console.log(departments);
-  //         // return response;
-  //       } catch (error) {
-  //         return error.message;
-  //       }
-  //     },
-  //   },
-};
+const { typeDefs: agency } = require("./src/agency");
+const { typeDefs: query, resolvers: queries } = require("./src/query");
+const { typeDefs: mutation, resolvers: mutations } = require("./src/mutation");
 
 const server = new ApolloServer({
-  typeDefs,
-  resolvers,
+  typeDefs: [agency, query, mutation],
+  resolvers: merge(queries, mutations),
   introspection: true,
   playground: true,
 });
