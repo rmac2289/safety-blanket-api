@@ -11,10 +11,8 @@ const typeDefs = gql`
 const resolvers = {
   Query: {
     agencies: async () => await Agency.find({}).exec(),
-    agencies_by_city: async (obj, { city, county }, context, info) => {
-      const matchingAgencies = await Agency.find().where({
-        city: city,
-      });
+    agencies_by_city: async (obj, { city, county }) => {
+      const matchingAgencies = await Agency.find({}).exec();
       return matchingAgencies.filter(
         (v) =>
           city === v.city ||

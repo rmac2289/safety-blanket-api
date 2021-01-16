@@ -1361,443 +1361,355 @@ const Agencies = [
   },
   {
     agency: "Alaska State Troopers",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9072695511",
+    street: "5700 East Tudor Rd",
+    city: "Anchorage",
     state: "AK",
-    zip
+    zip: 99507
   },
   {
     agency: "Bristol Bay Borough Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9072464222",
+    street: "Bldg 150",
+    city: "King Salmon",
     state: "AK",
-    zip
+    zip: 99613
   },
   {
     agency: "North Slope Borough Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9078520311",
+    street: "1274 Agvik St",
+    city: "North Slope Borough",
     state: "AK",
-    zip
-  },
-  {
-    agency: "North Slope Borough Police",
-    phone: "",
-    street: "",
-    city: "",
-    state: "AK",
-    zip
-  },
-  {
-    agency: "Adak Police Department",
-    phone: "",
-    street: "",
-    city: "",
-    state: "AK",
-    zip
+    zip: 99723
   },
   {
     agency: "Akiachak Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9078254313",
+    street: "51070 Main St",
+    city: "Akiachak",
     state: "AK",
-    zip
-  },
-  {
-    agency: "Akiak Police Department",
-    phone: "",
-    street: "",
-    city: "",
-    state: "AK",
-    zip
+    zip: 99551
   },
   {
     agency: "Anchorage Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9077868900",
+    street: "716 W 4th Ave",
+    city: "Anchorage",
     state: "AK",
-    zip
-  },
-  {
-    agency: "Angoon Public Safety Department",
-    phone: "",
-    street: "",
-    city: "",
-    state: "AK",
-    zip
+    zip: 99501
   },
   {
     agency: "Bethel Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9075433781",
+    street: "157 Salmonberry St",
+    city: "Bethel",
     state: "AK",
-    zip
-  },
-  {
-    agency: "Chignik Bay Department of Public Safety",
-    phone: "",
-    street: "",
-    city: "",
-    state: "AK",
-    zip
+    zip: 99559
   },
   {
     agency: "Cordova Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9074246100",
+    street: "601 1st St",
+    city: "Cordova",
     state: "AK",
-    zip
+    zip: 99574
   },
   {
     agency: "Craig Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9078263330",
+    street: "506 2nd St",
+    city: "Craig",
     state: "AK",
-    zip
+    zip: 99921
   },
   {
     agency: "Dillingham Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9078425354",
+    street: "141 Main St",
+    city: "Dillingham",
     state: "AK",
-    zip
+    zip: 99576
   },
   {
     agency: "Fairbanks Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9074506500",
+    street: "800 Cushman St",
+    city: "Fairbanks",
     state: "AK",
-    zip
+    zip: 99701
   },
   {
     agency: "Fort Yukon Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9076622311",
+    street: "170 E 7th Ave",
+    city: "Fort Yukon",
     state: "AK",
-    zip
+    zip: 99740
   },
   {
     agency: "Galena Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9076567225",
+    street: "Antoski Rd",
+    city: "Galena",
     state: "AK",
-    zip
+    zip: 99741
   },
   {
-    agency: "Haines Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    agency: "Haines Borough Police Department",
+    phone: "9077666430",
+    street: "315 Haines Hwy",
+    city: "Haines",
     state: "AK",
-    zip
+    zip: 99827
   },
   {
     agency: "Homer Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9072353150",
+    street: "625 Grubstake Ave",
+    city: "Homer",
     state: "AK",
-    zip
+    zip: 99603
   },
   {
     agency: "Hoonah Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9079453655",
+    street: "379 Raven Dr",
+    city: "Hoonah",
     state: "AK",
-    zip
+    zip: 99829
   },
   {
     agency: "Hooper Bay Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9077584615",
+    street: "137 Main Rd",
+    city: "Hooper Bay",
     state: "AK",
-    zip
+    zip: 99604
   },
   {
     agency: "Houston Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9077452131",
+    street: "13965 W Armstrong Rd",
+    city: "Houston",
     state: "AK",
-    zip
+    zip: 99694
   },
   {
     agency: "Juneau Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9075860600",
+    street: "6255 Alaway Ave",
+    city: "Juneau",
     state: "AK",
-    zip
-  },
-  {
-    agency: "Kake Police Department",
-    phone: "",
-    street: "",
-    city: "",
-    state: "AK",
-    zip
+    zip: 99801
   },
   {
     agency: "Kenai Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9072837879",
+    street: "107 S Willow St",
+    city: "Kenai",
     state: "AK",
-    zip
+    zip: 99611
   },
   {
     agency: "Ketchikan Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9072256631",
+    street: "334 Front St",
+    city: "Ketchikan",
     state: "AK",
-    zip
+    zip: 99901
   },
   {
     agency: "King Cove Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9074972210",
+    street: "135 Ram Creek Dr",
+    city: "King Cove",
     state: "AK",
-    zip
+    zip: 99612
   },
   {
     agency: "Klawock Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9077552777",
+    street: "Mile 31 Klawock-Hollis Hwy",
+    city: "Klawock",
     state: "AK",
-    zip
+    zip: 99925
   },
   {
     agency: "Kodiak Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9074868000",
+    street: "2160 Mill Bay Rd",
+    city: "Kodiak",
     state: "AK",
-    zip
+    zip: 99615
   },
   {
     agency: "Kotzebue Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9074423539",
+    street: "258-B Third Ave",
+    city: "Kotzebue",
     state: "AK",
-    zip
-  },
-  {
-    agency: "Kwethluk Police Department",
-    phone: "",
-    street: "",
-    city: "",
-    state: "AK",
-    zip
+    zip: 99752
   },
   {
     agency: "Nenana Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9078325554",
+    street: "Nenana Public Safety",
+    city: "Nenana",
     state: "AK",
-    zip
+    zip: 99729
   },
   {
     agency: "Nome Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9074435262",
+    street: "102 Greg Kruschek Ave",
+    city: "Nome",
     state: "AK",
-    zip
+    zip: 99762
   },
   {
     agency: "North Pole Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9074886902",
+    street: "125 Snowman Lane",
+    city: "North Pole",
     state: "AK",
-    zip
+    zip: 99705
   },
   {
     agency: "Palmer Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9077454811",
+    street: "423 S Valley Way",
+    city: "Palmer",
     state: "AK",
-    zip
+    zip: 99645
   },
   {
     agency: "Petersburg Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9077723838",
+    street: "16 South Nordic Dr",
+    city: "Petersburg",
     state: "AK",
-    zip
-  },
-  {
-    agency: "Pilot Station Police Department",
-    phone: "",
-    street: "",
-    city: "",
-    state: "AK",
-    zip
-  },
-  {
-    agency: "Port Lions Department of Public Safety",
-    phone: "",
-    street: "",
-    city: "",
-    state: "AK",
-    zip
+    zip: 99833
   },
   {
     agency: "Saint Paul Department of Public Safety",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9075463130",
+    street: "100 Gorbatch St",
+    city: "St Paul",
     state: "AK",
-    zip
+    zip: 99660
   },
   {
     agency: "Sand Point Department of Public Safety",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9073833700",
+    street: "423 Main St",
+    city: "Sand Point",
     state: "AK",
-    zip
+    zip: 99661
   },
   {
     agency: "Seldovia Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9072347640",
+    street: "264 Lipke Ln",
+    city: "Seldovia",
     state: "AK",
-    zip
+    zip: 99663
   },
   {
     agency: "Seward Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9072243338",
+    street: "410 Adams St",
+    city: "Seward",
     state: "AK",
-    zip
+    zip: 99664
   },
   {
     agency: "Sitka Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9077473245",
+    street: "304 Lake St",
+    city: "Sitka",
     state: "AK",
-    zip
+    zip: 99835
   },
   {
     agency: "Skagway Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9079832232",
+    street: "308 17th Ave",
+    city: "Skagway",
     state: "AK",
-    zip
+    zip: 99840
   },
   {
     agency: "Soldotna Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9072624455",
+    street: "44510 Sterling Hwy",
+    city: "Soldotna",
     state: "AK",
-    zip
-  },
-  {
-    agency: "Tanana Department of Public Safety",
-    phone: "",
-    street: "",
-    city: "",
-    state: "AK",
-    zip
+    zip: 99669
   },
   {
     agency: "Togiak Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9074935212",
+    street: "Togiak",
+    city: "2nd Ave & G St",
     state: "AK",
-    zip
-  },
-  {
-    agency: "Tuluksak Police Department",
-    phone: "",
-    street: "",
-    city: "",
-    state: "AK",
-    zip
+    zip: 99678
   },
   {
     agency: "Unalakleet Department of Public Safety",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9076243008",
+    street: "204 Main St",
+    city: "Unalakleet",
     state: "AK",
-    zip
+    zip: 99684
   },
   {
     agency: "Unalaska Department of Public Safety",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9075811233",
+    street: "29 Safety Way",
+    city: "Unalaska",
     state: "AK",
-    zip
+    zip: 99685
   },
   {
     agency: "Valdez Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9078354560",
+    street: "212 Chenega Ave",
+    city: "Valdez",
     state: "AK",
-    zip
+    zip: 99686
   },
   {
     agency: "Wasilla Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9073525401",
+    street: "801 N Wasilla-Fishhook Rd",
+    city: "Wasilla",
     state: "AK",
-    zip
+    zip: 99654
   },
   {
     agency: "Whittier Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9074722327",
+    street: "13200 East, Penn St",
+    city: "Whittier",
     state: "AK",
-    zip
+    zip: 90602
   },
   {
     agency: "Wrangell Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9078743304",
+    street: "431 Zimovia Hwy",
+    city: "Wrangell",
     state: "AK",
-    zip
+    zip: 99929
   },
   {
     agency: "Yakutat Police Department",
-    phone: "",
-    street: "",
-    city: "",
+    phone: "9077843206",
+    street: "609 Forest Hwy No 10",
+    city: "Yakutat",
     state: "AK",
-    zip
+    zip: 99689
   },
   {
     agency: "Arizona Highway Patrol (DPS)",
