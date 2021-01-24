@@ -1,6 +1,6 @@
 const { gql } = require("apollo-server");
 const { Agency } = require("../models");
-// const { Agencies } = require("./departments");
+// const { departments } = require("../departments");
 
 const typeDefs = gql`
   type Mutation {
@@ -19,7 +19,7 @@ const resolvers = {
   Mutation: {
     addAgencies: async () => {
       try {
-        return Agencies.map(async (v) => {
+        return departments.map(async (v) => {
           return await Agency.create(v);
         });
         // let response = await Agency.create(Agencies);
