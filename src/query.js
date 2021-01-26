@@ -1,4 +1,5 @@
 const { gql } = require("apollo-server");
+const { matches } = require("lodash");
 const { Agency } = require("../models");
 
 const typeDefs = gql`
@@ -19,6 +20,9 @@ const resolvers = {
         state: state,
       }).exec();
       const countyAgency = await Agency.find({ agency: countyRegex }).exec();
+      if (countyAgency[0].city === city) {
+        return matchesCity;
+      }
       return matchesCity.concat(countyAgency);
     },
     agencies_by_state: async (obj, { state }) => {
