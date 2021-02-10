@@ -1,17 +1,24 @@
 const { gql } = require("apollo-server");
 const { matches } = require("lodash");
-const { Agency } = require("../models");
+const { Agency, User } = require("../models");
 
 const typeDefs = gql`
   type Query {
     agencies: [Agency]
     agencies_by_city(city: String, county: String, state: String): [Agency]
     agencies_by_state(state: String): [Agency]
+    users: [User]
+    favorites(userId: Int): [Favorite]
   }
 `;
 
 const resolvers = {
   Query: {
+    favorites: async (_, user) => {
+      let currentUser = await User.find({ userId: user.userId });
+      return currentUser[0].favorites;
+    },
+    users: async () => await User.find({}).exec(),
     agencies: async () => await Agency.find({}).exec(),
     agencies_by_city: async (obj, { city, county, state }) => {
       let countyRegex = new RegExp(county, "g");

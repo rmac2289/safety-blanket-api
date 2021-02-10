@@ -9,9 +9,14 @@ const agencySchema = new Schema({
   city: String,
   zip: Number,
 });
+const userSchema = new Schema({
+  userId: String,
+  favorites: Array,
+});
 
 const Agency = mongoose.model("agency", agencySchema);
-
+const User = mongoose.model("user", userSchema);
 module.exports = {
   Agency,
+  User,
 };
