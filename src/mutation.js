@@ -32,9 +32,6 @@ const resolvers = {
         return departments.map(async (v) => {
           return await Agency.create(v);
         });
-        // let response = await Agency.create(Agencies);
-        // console.log(Agencies);
-        // return response;
       } catch (error) {
         return error.message;
       }
@@ -43,20 +40,24 @@ const resolvers = {
       return await User.create(user);
     },
     addFavorite: async (_, user) => {
-      let currentUser = await User.findOne({ userId: user.userId });
-      for (let dept of currentUser.favorites) {
-        if (
-          dept.agency === user.favorites.agency &&
-          dept.state === user.favorites.state
-        ) {
-          return "Agency already in favorites.";
+      try {
+        let currentUser = await User.findOne({ userId: user.userId });
+        for (let dept of currentUser.favorites) {
+          if (
+            dept.agency === user.favorites.agency &&
+            dept.state === user.favorites.state
+          ) {
+            return "Agency already in favorites.";
+          }
         }
+        let newFavs = [...currentUser.favorites, user.favorites];
+        return await User.updateOne(
+          { userId: currentUser.userId },
+          { favorites: newFavs }
+        );
+      } catch (error) {
+        return error.message;
       }
-      let newFavs = [...currentUser.favorites, user.favorites];
-      return await User.updateOne(
-        { userId: currentUser.userId },
-        { favorites: newFavs }
-      );
     },
   },
 };

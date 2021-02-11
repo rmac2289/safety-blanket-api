@@ -8,7 +8,7 @@ const typeDefs = gql`
     agencies_by_city(city: String, county: String, state: String): [Agency]
     agencies_by_state(state: String): [Agency]
     users: [User]
-    favorites(userId: Int): [Favorite]
+    favorites(userId: String!): [Favorite]
   }
 `;
 
