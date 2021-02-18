@@ -1,51 +1,43 @@
 [
   {
     "agency": "Alameda Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "5103378340",
+    "street": "1555 Oak St",
+    "city": "Alameda",
     "state": "CA",
-    "zip": ""
+    "zip": "94501"
   },
   {
     "agency": "Albany Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "5105257300",
+    "street": "1000 San Pablo Ave",
+    "city": "Albany",
     "state": "CA",
-    "zip": ""
+    "zip": "94706"
   },
   {
     "agency": "Alhambra Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "6265705151",
+    "street": "111 South First St",
+    "city": "Alhambra",
     "state": "CA",
-    "zip": ""
+    "zip": "91801"
   },
   {
     "agency": "Alturas Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "5302332011",
+    "street": "200 W North St",
+    "city": "Alturas",
     "state": "CA",
-    "zip": ""
-  },
-  {
-    "agency": "Amtrak Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
-    "state": "CA",
-    "zip": ""
+    "zip": "96101"
   },
   {
     "agency": "Anaheim Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "7147651900",
+    "street": "425 South Harbor Blvd",
+    "city": "Anaheim",
     "state": "CA",
-    "zip": ""
+    "zip": "92805"
   },
   {
     "agency": "Anderson Police Department",
@@ -65,11 +57,11 @@
   },
   {
     "agency": "Antioch Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "9257782441",
+    "street": "300 L St",
+    "city": "Antioch",
     "state": "CA",
-    "zip": ""
+    "zip": "94509"
   },
   {
     "agency": "Arcadia Police Department",
@@ -113,11 +105,11 @@
   },
   {
     "agency": "Atherton Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "6506886500",
+    "street": "83 Ashfield Rd",
+    "city": "Atherton",
     "state": "CA",
-    "zip": ""
+    "zip": "94027"
   },
   {
     "agency": "Atwater Police Department",
@@ -185,11 +177,11 @@
   },
   {
     "agency": "Bay Area Rapid Transit Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "5104647000",
+    "street": "800 Madison St",
+    "city": "Oakland",
     "state": "CA",
-    "zip": ""
+    "zip": "84607"
   },
   {
     "agency": "Bear Valley Police Department",
@@ -225,35 +217,35 @@
   },
   {
     "agency": "Belmont Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "6505957400",
+    "street": "1 Twin Pines Ln",
+    "city": "Belmont",
     "state": "CA",
-    "zip": ""
+    "zip": "94002"
   },
   {
     "agency": "Belvedere Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "4154353266",
+    "street": "450 San Rafael Ave",
+    "city": "Belvedere",
     "state": "CA",
-    "zip": ""
+    "zip": "94920"
   },
   {
     "agency": "Benicia Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "7077453411",
+    "street": "200 East L St",
+    "city": "Benicia",
     "state": "CA",
-    "zip": ""
+    "zip": "94510"
   },
   {
     "agency": "Berkeley Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "5109815900",
+    "street": "2100 Martin Luther King Jr Way",
+    "city": "Berkeley",
     "state": "CA",
-    "zip": ""
+    "zip": "94704"
   },
   {
     "agency": "Beverly Hills Police Department",
@@ -321,11 +313,11 @@
   },
   {
     "agency": "Brisbane Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "4154671212",
+    "street": "147 Valley Dr",
+    "city": "Brisbane",
     "state": "CA",
-    "zip": ""
+    "zip": "94005"
   },
   {
     "agency": "Broadmoor Police Department",
@@ -353,11 +345,11 @@
   },
   {
     "agency": "Burlingame Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "6507774100",
+    "street": "1111 Trousdale Dr",
+    "city": "Burlingame",
     "state": "CA",
-    "zip": ""
+    "zip": "94010"
   },
   {
     "agency": "Calexico Police Department",
@@ -376,14 +368,6 @@
     "zip": ""
   },
   {
-    "agency": "California Criminalistics Institute",
-    "phone": "",
-    "street": "",
-    "city": "",
-    "state": "CA",
-    "zip": ""
-  },
-  {
     "agency": "Calipatria Police Department",
     "phone": "",
     "street": "",
@@ -393,27 +377,27 @@
   },
   {
     "agency": "Calistoga Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "7079422810",
+    "street": "1235 Washington St",
+    "city": "Calistoga",
     "state": "CA",
-    "zip": ""
+    "zip": "94515"
   },
   {
     "agency": "Campbell Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "4088662101",
+    "street": "70 N First St",
+    "city": "Campbell",
     "state": "CA",
-    "zip": ""
+    "zip": "95008"
   },
   {
     "agency": "Capitola Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "8314711141",
+    "street": "422 Capitola Ave",
+    "city": "Capitola",
     "state": "CA",
-    "zip": ""
+    "zip": "95010"
   },
   {
     "agency": "Carlsbad Police Department",
@@ -425,11 +409,11 @@
   },
   {
     "agency": "Carmel Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "8316246403",
+    "street": "Junipero Ave & 4th Ave",
+    "city": "Carmel-By-The-Sea",
     "state": "CA",
-    "zip": ""
+    "zip": "93923"
   },
   {
     "agency": "Cathedral City Police Department",
@@ -545,11 +529,11 @@
   },
   {
     "agency": "Colma Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "6509978321",
+    "street": "1199 El Camino Real",
+    "city": "Colma",
     "state": "CA",
-    "zip": ""
+    "zip": "94014"
   },
   {
     "agency": "Colton Police Department",
@@ -569,11 +553,11 @@
   },
   {
     "agency": "Concord Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "9256713220",
+    "street": "1350 Galindo St",
+    "city": "Concord",
     "state": "CA",
-    "zip": ""
+    "zip": "94520"
   },
   {
     "agency": "Corcoran Police Department",
@@ -608,14 +592,6 @@
     "zip": ""
   },
   {
-    "agency": "Costa Mesa Department of Communications",
-    "phone": "",
-    "street": "",
-    "city": "",
-    "state": "CA",
-    "zip": ""
-  },
-  {
     "agency": "Costa Mesa Police Department",
     "phone": "",
     "street": "",
@@ -625,11 +601,11 @@
   },
   {
     "agency": "Cotati Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "7077924611",
+    "street": "203 West Sierra Ave",
+    "city": "Cotati",
     "state": "CA",
-    "zip": ""
+    "zip": "94931"
   },
   {
     "agency": "Covina Police Department",
@@ -665,11 +641,11 @@
   },
   {
     "agency": "Daly City Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "6509921225",
+    "street": "333 90th St",
+    "city": "Daly City",
     "state": "CA",
-    "zip": ""
+    "zip": "94015"
   },
   {
     "agency": "Dana Point Police Department",
@@ -753,11 +729,11 @@
   },
   {
     "agency": "East Palo Alto Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "6t503211112",
+    "street": "141 Demeter St",
+    "city": "East Palo Alto",
     "state": "CA",
-    "zip": ""
+    "zip": "94303"
   },
   {
     "agency": "El Cajon Police Department",
@@ -777,11 +753,11 @@
   },
   {
     "agency": "El Cerrito Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "5102331214",
+    "street": "10900 San Pablo Ave",
+    "city": "El Cerrito",
     "state": "CA",
-    "zip": ""
+    "zip": "94530"
   },
   {
     "agency": "El Monte Police Department",
@@ -809,11 +785,11 @@
   },
   {
     "agency": "Emeryville Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "5105963700",
+    "street": "2449 Powell St",
+    "city": "Emeryville",
     "state": "CA",
-    "zip": ""
+    "zip": "94608"
   },
   {
     "agency": "Escalon Police Department",
@@ -856,20 +832,12 @@
     "zip": ""
   },
   {
-    "agency": "Exposition Park Department of Public Safety - Los Angeles",
-    "phone": "",
-    "street": "",
-    "city": "",
-    "state": "CA",
-    "zip": ""
-  },
-  {
     "agency": "Fairfax Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "4154535330",
+    "street": "144 Bolinas Rd",
+    "city": "Fairfax",
     "state": "CA",
-    "zip": ""
+    "zip": "94930"
   },
   {
     "agency": "Fairfield Police Department",
@@ -937,11 +905,11 @@
   },
   {
     "agency": "Foster City Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "6502863300",
+    "street": "1030 E Hillsdale Blvd",
+    "city": "Foster City",
     "state": "CA",
-    "zip": ""
+    "zip": "94404"
   },
   {
     "agency": "Fountain Valley Police Department",
@@ -961,11 +929,11 @@
   },
   {
     "agency": "Fremont Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "5107906800",
+    "street": "2000 Stevenson Blvd",
+    "city": "Fremont",
     "state": "CA",
-    "zip": ""
+    "zip": "94538"
   },
   {
     "agency": "Fresno Police Department",
@@ -1001,22 +969,14 @@
   },
   {
     "agency": "Gilroy Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "4088460350",
+    "street": "7301 Hanna St",
+    "city": "Gilroy",
     "state": "CA",
-    "zip": ""
+    "zip": "95020"
   },
   {
     "agency": "Glendale Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
-    "state": "CA",
-    "zip": ""
-  },
-  {
-    "agency": "Glendale Police Department Park Rangers",
     "phone": "",
     "street": "",
     "city": "",
@@ -1105,19 +1065,19 @@
   },
   {
     "agency": "Hayward Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "5102937000",
+    "street": "300 W Winton Ave",
+    "city": "Hayward",
     "state": "CA",
-    "zip": ""
+    "zip": "94544"
   },
   {
     "agency": "Healdsburg Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "7074313377",
+    "street": "238 Center St",
+    "city": "Healdsburg",
     "state": "CA",
-    "zip": ""
+    "zip": "95448"
   },
   {
     "agency": "Hemet Police Department",
@@ -1129,11 +1089,11 @@
   },
   {
     "agency": "Hercules Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "5107241111",
+    "street": "111 Civic Dr",
+    "city": "Hercules",
     "state": "CA",
-    "zip": ""
+    "zip": "94547"
   },
   {
     "agency": "Hermosa Beach Police Department",
@@ -1145,19 +1105,19 @@
   },
   {
     "agency": "Hillsborough Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "6503757470",
+    "street": "1600 Floribunda Ave",
+    "city": "Hillsborough",
     "state": "CA",
-    "zip": ""
+    "zip": "94010"
   },
   {
     "agency": "Hollister Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "8316364331",
+    "street": "395 Apollo Way",
+    "city": "Hollister",
     "state": "CA",
-    "zip": ""
+    "zip": "95023"
   },
   {
     "agency": "Huntington Beach Police Department",
@@ -1353,11 +1313,11 @@
   },
   {
     "agency": "Livermore Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "9253714987",
+    "street": "1110 S Livermore Ave",
+    "city": "Livermore",
     "state": "CA",
-    "zip": ""
+    "zip": "94550"
   },
   {
     "agency": "Livingston Police Department",
@@ -1409,19 +1369,19 @@
   },
   {
     "agency": "Los Altos Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "6509472770",
+    "street": "1 N San Antonio Rd",
+    "city": "Los Altos",
     "state": "CA",
-    "zip": ""
+    "zip": "94022"
   },
   {
     "agency": "Los Angeles Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "8772755273",
+    "street": "100 West 1st St",
+    "city": "Los Angeles",
     "state": "CA",
-    "zip": ""
+    "zip": "90012"
   },
   {
     "agency": "Los Banos Police Department",
@@ -1432,12 +1392,12 @@
     "zip": ""
   },
   {
-    "agency": "Los Gatos/Monte Sereno Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "agency": "Los Gatos-Monte Sereno Police Department",
+    "phone": "4083540578",
+    "street": "110 E Main St",
+    "city": "Los Gatos",
     "state": "CA",
-    "zip": ""
+    "zip": "95030"
   },
   {
     "agency": "Madera Police Department",
@@ -1465,11 +1425,11 @@
   },
   {
     "agency": "Manteca Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "2092398401",
+    "street": "1001 W Center St",
+    "city": "Manteca",
     "state": "CA",
-    "zip": ""
+    "zip": "95337"
   },
   {
     "agency": "Marina Department of Public Safety",
@@ -1481,11 +1441,11 @@
   },
   {
     "agency": "Martinez Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "9253723440",
+    "street": "525 Henrietta St",
+    "city": "Martinez",
     "state": "CA",
-    "zip": ""
+    "zip": "94553"
   },
   {
     "agency": "Marysville Police Department",
@@ -1529,11 +1489,11 @@
   },
   {
     "agency": "Menlo Park Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "6503306300",
+    "street": "701 Laurel St",
+    "city": "Menlo Park",
     "state": "CA",
-    "zip": ""
+    "zip": "94025"
   },
   {
     "agency": "Merced Police Department",
@@ -1545,19 +1505,19 @@
   },
   {
     "agency": "Mill Valley Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "4154464526",
+    "street": "1 Hamilton Dr",
+    "city": "Mill Valley",
     "state": "CA",
-    "zip": ""
+    "zip": "94941"
   },
   {
     "agency": "Milpitas Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "4082631212",
+    "street": "1275 N Milpitas Blvd",
+    "city": "Milpitas",
     "state": "CA",
-    "zip": ""
+    "zip": "95035"
   },
   {
     "agency": "Modesto Police Department",
@@ -1577,22 +1537,14 @@
   },
   {
     "agency": "Montclair Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "9096214771",
+    "street": "4870 Arrow Hwy",
+    "city": "Montclair",
     "state": "CA",
-    "zip": ""
+    "zip": "91763"
   },
   {
     "agency": "Montebello Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
-    "state": "CA",
-    "zip": ""
-  },
-  {
-    "agency": "Monterey County Emergency Communication",
     "phone": "",
     "street": "",
     "city": "",
@@ -1609,11 +1561,11 @@
   },
   {
     "agency": "Monterey Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "8316463914",
+    "street": "580 Pacific St",
+    "city": "Monterey",
     "state": "CA",
-    "zip": ""
+    "zip": "93940"
   },
   {
     "agency": "Moraga Police Department",
@@ -1625,11 +1577,11 @@
   },
   {
     "agency": "Morgan Hill Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "4087792101",
+    "street": "16200 Vineyard Blvd",
+    "city": "Morgan Hill",
     "state": "CA",
-    "zip": ""
+    "zip": "95037"
   },
   {
     "agency": "Morro Bay Police Department",
@@ -1648,14 +1600,6 @@
     "zip": ""
   },
   {
-    "agency": "Mountain View Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
-    "state": "CA",
-    "zip": ""
-  },
-  {
     "agency": "Murrieta Police Department",
     "phone": "",
     "street": "",
@@ -1665,11 +1609,11 @@
   },
   {
     "agency": "Napa Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "7072579223",
+    "street": "1539 First St",
+    "city": "Napa",
     "state": "CA",
-    "zip": ""
+    "zip": "94559"
   },
   {
     "agency": "National City Police Department",
@@ -1689,11 +1633,11 @@
   },
   {
     "agency": "Newark Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "5105784237",
+    "street": "37101 Newark Blvd",
+    "city": "Newark",
     "state": "CA",
-    "zip": ""
+    "zip": "94560"
   },
   {
     "agency": "Newman Police Department",
@@ -1713,11 +1657,11 @@
   },
   {
     "agency": "Novato Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "4158971122",
+    "street": "909 Machin Ave",
+    "city": "Novato",
     "state": "CA",
-    "zip": ""
+    "zip": "94945"
   },
   {
     "agency": "Oakdale Police Department",
@@ -1729,11 +1673,11 @@
   },
   {
     "agency": "Oakland Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "5107773333",
+    "street": "455 7th St",
+    "city": "Oakland",
     "state": "CA",
-    "zip": ""
+    "zip": "94607"
   },
   {
     "agency": "Oakley Police Department",
@@ -1809,11 +1753,11 @@
   },
   {
     "agency": "Pacifica Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "6507387314",
+    "street": "2075 Coast Hwy",
+    "city": "Pacifica",
     "state": "CA",
-    "zip": ""
+    "zip": "94044"
   },
   {
     "agency": "Palm Springs Police Department",
@@ -1825,11 +1769,11 @@
   },
   {
     "agency": "Palo Alto Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "6503292413",
+    "street": "275 Forest Ave",
+    "city": "Palo Alto",
     "state": "CA",
-    "zip": ""
+    "zip": "94301"
   },
   {
     "agency": "Palos Verdes Estates Police Department",
@@ -1873,27 +1817,27 @@
   },
   {
     "agency": "Petaluma Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "7077784372",
+    "street": "969 Petaluma Blvd N",
+    "city": "Petaluma",
     "state": "CA",
-    "zip": ""
+    "zip": "94952"
   },
   {
     "agency": "Piedmont Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "5104203000",
+    "street": "403 Highland Ave",
+    "city": "Piedmont",
     "state": "CA",
-    "zip": ""
+    "zip": "94611"
   },
   {
     "agency": "Pinole Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "5107248950",
+    "street": "880 Tennent Ave",
+    "city": "Pinole",
     "state": "CA",
-    "zip": ""
+    "zip": "94564"
   },
   {
     "agency": "Pismo Beach Police Department",
@@ -1905,11 +1849,11 @@
   },
   {
     "agency": "Pittsburg Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "9256462441",
+    "street": "65 Civic Ave",
+    "city": "Pittsburg",
     "state": "CA",
-    "zip": ""
+    "zip": "94565"
   },
   {
     "agency": "Placentia Police Department",
@@ -1937,11 +1881,11 @@
   },
   {
     "agency": "Pleasanton Police Services",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "9259315100",
+    "street": "4833 Bernal Ave",
+    "city": "Pleasanton",
     "state": "CA",
-    "zip": ""
+    "zip": "94566"
   },
   {
     "agency": "Pomona Police Department",
@@ -2009,11 +1953,11 @@
   },
   {
     "agency": "Redwood City Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "6507807118",
+    "street": "1301 Maple St",
+    "city": "Redwood City",
     "state": "CA",
-    "zip": ""
+    "zip": "94063"
   },
   {
     "agency": "Reedley Police Department",
@@ -2033,11 +1977,11 @@
   },
   {
     "agency": "Richmond Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "5102331214",
+    "street": "1701 Regatta Blvd",
+    "city": "Richmond",
     "state": "CA",
-    "zip": ""
+    "zip": "94804"
   },
   {
     "agency": "Ridgecrest Police Department",
@@ -2089,11 +2033,11 @@
   },
   {
     "agency": "Rohnert Park Department of Public Safety",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "7075842600",
+    "street": "500 City Center Dr",
+    "city": "Rohnert Park",
     "state": "CA",
-    "zip": ""
+    "zip": "94928"
   },
   {
     "agency": "Roseville Police Department",
@@ -2105,27 +2049,27 @@
   },
   {
     "agency": "Ross Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "4154532727",
+    "street": "33 Sir Francis Drake Blvd",
+    "city": "Ross",
     "state": "CA",
-    "zip": ""
+    "zip": "94957"
   },
   {
     "agency": "Sacramento Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "9168085471",
+    "street": "5303 Franklin Blvd",
+    "city": "Sacramento",
     "state": "CA",
-    "zip": ""
+    "zip": "95820"
   },
   {
     "agency": "Saint Helena Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "7079672850",
+    "street": "1572 Railroad Ave",
+    "city": "St Helena",
     "state": "CA",
-    "zip": ""
+    "zip": "94574"
   },
   {
     "agency": "Salinas Police Department",
@@ -2145,19 +2089,11 @@
   },
   {
     "agency": "San Bruno Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "6506167100",
+    "street": "1177 Huntington Ave",
+    "city": "San Bruno",
     "state": "CA",
-    "zip": ""
-  },
-  {
-    "agency": "San Carlos Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
-    "state": "CA",
-    "zip": ""
+    "zip": "94066"
   },
   {
     "agency": "San Fernando Police Department",
@@ -2169,11 +2105,11 @@
   },
   {
     "agency": "San Francisco Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "4155530123",
+    "street": "1245 3rd St",
+    "city": "San Francisco",
     "state": "CA",
-    "zip": ""
+    "zip": "94158"
   },
   {
     "agency": "San Gabriel Police Department",
@@ -2193,19 +2129,19 @@
   },
   {
     "agency": "San Jose Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "4082778900",
+    "street": "201 W Mission St",
+    "city": "San Jose",
     "state": "CA",
-    "zip": ""
+    "zip": "95110"
   },
   {
     "agency": "San Leandro Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "5105772740",
+    "street": "901 E 14th St",
+    "city": "San Leandro",
     "state": "CA",
-    "zip": ""
+    "zip": "94577"
   },
   {
     "agency": "San Luis Obispo Police Department",
@@ -2225,35 +2161,35 @@
   },
   {
     "agency": "San Mateo Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "6505227700",
+    "street": "200 Franklin Pkwy",
+    "city": "San Mateo",
     "state": "CA",
-    "zip": ""
+    "zip": "94403"
   },
   {
     "agency": "San Pablo Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "6107241111",
+    "street": "13880 San Pablo Ave",
+    "city": "San Pablo",
     "state": "CA",
-    "zip": ""
+    "zip": "94806"
   },
   {
     "agency": "San Rafael Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "4154853000",
+    "street": "1375 Fifth Ave",
+    "city": "San Rafael",
     "state": "CA",
-    "zip": ""
+    "zip": "94901"
   },
   {
     "agency": "San Ramon Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "9259732779",
+    "street": "2401 Crow Canyon Rd",
+    "city": "San Ramon",
     "state": "CA",
-    "zip": ""
+    "zip": "94583"
   },
   {
     "agency": "Sand City Police Department",
@@ -2289,19 +2225,19 @@
   },
   {
     "agency": "Santa Clara Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "4086155580",
+    "street": "601 El Camino Real",
+    "city": "Santa Clara",
     "state": "CA",
-    "zip": ""
+    "zip": "95050"
   },
   {
     "agency": "Santa Cruz Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "8314711131",
+    "street": "155 Center St",
+    "city": "Santa Cruz",
     "state": "CA",
-    "zip": ""
+    "zip": "95060"
   },
   {
     "agency": "Santa Fe Springs Police Services",
@@ -2337,27 +2273,27 @@
   },
   {
     "agency": "Santa Rosa Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "7075433600",
+    "street": "965 Sonoma Ave",
+    "city": "Santa Rosa",
     "state": "CA",
-    "zip": ""
+    "zip": "95404"
   },
   {
     "agency": "Sausalito Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "4152894170",
+    "street": "29 Caledonia St",
+    "city": "Sausalito",
     "state": "CA",
-    "zip": ""
+    "zip": "94965"
   },
   {
     "agency": "Scotts Valley Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "8314405670",
+    "street": "1 Civic Center Dr",
+    "city": "Scotts Valley",
     "state": "CA",
-    "zip": ""
+    "zip": "95066"
   },
   {
     "agency": "Seal Beach Police Department",
@@ -2377,11 +2313,11 @@
   },
   {
     "agency": "Sebastopol Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "7078294400",
+    "street": "6850 Laguna Park Way",
+    "city": "Sebastopol",
     "state": "CA",
-    "zip": ""
+    "zip": "95472"
   },
   {
     "agency": "Selma Police Department",
@@ -2441,11 +2377,11 @@
   },
   {
     "agency": "Sonoma Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "7079963602",
+    "street": "175 1st St W",
+    "city": "Sonoma",
     "state": "CA",
-    "zip": ""
+    "zip": "95476"
   },
   {
     "agency": "Sonora Police Department",
@@ -2481,11 +2417,11 @@
   },
   {
     "agency": "South San Francisco Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "6508778900",
+    "street": "33 Arroyo Dr",
+    "city": "South San Francisco",
     "state": "CA",
-    "zip": ""
+    "zip": "94080"
   },
   {
     "agency": "Stallion Springs Police Department",
@@ -2513,11 +2449,11 @@
   },
   {
     "agency": "Sunnyvale Department of Public Safety",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "4087307180",
+    "street": "700 ALl America Way",
+    "city": "Sunnyvale",
     "state": "CA",
-    "zip": ""
+    "zip": "94086"
   },
   {
     "agency": "Susanville Police Department",
@@ -2561,11 +2497,11 @@
   },
   {
     "agency": "Tiburon Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "4157892801",
+    "street": "1155 Tiburon Blvd",
+    "city": "Tiburon",
     "state": "CA",
-    "zip": ""
+    "zip": "94920"
   },
   {
     "agency": "Torrance Police Department",
@@ -2649,11 +2585,11 @@
   },
   {
     "agency": "Union City Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "5104711365",
+    "street": "34009 Alvarado-Niles Rd",
+    "city": "Union City",
     "state": "CA",
-    "zip": ""
+    "zip": "94587"
   },
   {
     "agency": "Upland Police Department",
@@ -2665,19 +2601,19 @@
   },
   {
     "agency": "Vacaville Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "7074495200",
+    "street": "660 Merchant St",
+    "city": "Vacaville",
     "state": "CA",
-    "zip": ""
+    "zip": "95688"
   },
   {
     "agency": "Vallejo Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "7076484321",
+    "street": "111 Amador St",
+    "city": "Vallejo",
     "state": "CA",
-    "zip": ""
+    "zip": "94590"
   },
   {
     "agency": "Ventura Police Department",
@@ -2705,19 +2641,19 @@
   },
   {
     "agency": "Walnut Creek Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "9259435844",
+    "street": "1666 N Main St",
+    "city": "Walnut Creek",
     "state": "CA",
-    "zip": ""
+    "zip": "94596"
   },
   {
     "agency": "Watsonville Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "8317683300",
+    "street": "215 Union St",
+    "city": "Watsonville",
     "state": "CA",
-    "zip": ""
+    "zip": "95076"
   },
   {
     "agency": "Weed Police Department",
@@ -2793,11 +2729,11 @@
   },
   {
     "agency": "Windsor Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "7075652121",
+    "street": "9291 Old Redwood Hwy",
+    "city": "Windsor",
     "state": "CA",
-    "zip": ""
+    "zip": "95492"
   },
   {
     "agency": "Winters Police Department",
@@ -3561,11 +3497,11 @@
   },
   {
     "agency": "Connecticut State Police",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "8606858080",
+    "street": "1111 County Club Rd",
+    "city": "Middletown",
     "state": "CT",
-    "zip": ""
+    "zip": "06457"
   },
   {
     "agency": "Ansonia Police Department",
@@ -3633,11 +3569,11 @@
   },
   {
     "agency": "Bristol Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "8605843011",
+    "street": "131 North Main St",
+    "city": "Bristol",
     "state": "CT",
-    "zip": ""
+    "zip": "06010"
   },
   {
     "agency": "Brookfield Police Department",
@@ -3721,11 +3657,11 @@
   },
   {
     "agency": "East Hartford Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "8605284401",
+    "street": "31 School St",
+    "city": "East Hartford",
     "state": "CT",
-    "zip": ""
+    "zip": "06108"
   },
   {
     "agency": "East Haven Police Department",
@@ -3849,11 +3785,11 @@
   },
   {
     "agency": "Hartford Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "8607574000",
+    "street": "253 High St",
+    "city": "Hartford",
     "state": "CT",
-    "zip": ""
+    "zip": "06103"
   },
   {
     "agency": "Madison Department of Police Services",
@@ -3953,11 +3889,11 @@
   },
   {
     "agency": "New Haven Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "2039466316",
+    "street": "1 Union Ave",
+    "city": "New Haven",
     "state": "CT",
-    "zip": ""
+    "zip": "06519"
   },
   {
     "agency": "New London Police Department",
@@ -4201,11 +4137,11 @@
   },
   {
     "agency": "Waterbury Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "2035746920",
+    "street": "255 E Main St",
+    "city": "Waterbury",
     "state": "CT",
-    "zip": ""
+    "zip": "06702"
   },
   {
     "agency": "Waterford Police Department",
@@ -4225,11 +4161,11 @@
   },
   {
     "agency": "West Hartford Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "8605235203",
+    "street": "103 Raymond Rd",
+    "city": "West Hartford",
     "state": "CT",
-    "zip": ""
+    "zip": "06107"
   },
   {
     "agency": "West Haven Police Department",
@@ -4313,11 +4249,11 @@
   },
   {
     "agency": "Woodbridge Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "2033872511",
+    "street": "4 Meetinghouse Lane",
+    "city": "Woodbridge",
     "state": "CT",
-    "zip": ""
+    "zip": "06525"
   },
   {
     "agency": "Mashantucket Pequot Police Department",
@@ -4329,27 +4265,19 @@
   },
   {
     "agency": "Delaware State Police",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "3027395901",
+    "street": "1441 N Dupont Hwy",
+    "city": "Dover",
     "state": "DE",
-    "zip": ""
-  },
-  {
-    "agency": "Delaware Office of the Fire Marshal",
-    "phone": "",
-    "street": "",
-    "city": "",
-    "state": "DE",
-    "zip": ""
+    "zip": "19901"
   },
   {
     "agency": "New Castle County Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "3025732800",
+    "street": "3601 North DuPont Hwy",
+    "city": "New Castle",
     "state": "DE",
-    "zip": ""
+    "zip": "19720"
   },
   {
     "agency": "Bethany Beach Police Department",
@@ -4425,11 +4353,11 @@
   },
   {
     "agency": "Dover Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "3027367111",
+    "street": "400 S Queen St",
+    "city": "Dover",
     "state": "DE",
-    "zip": ""
+    "zip": "19904"
   },
   {
     "agency": "Ellendale Police Department",
@@ -4561,11 +4489,11 @@
   },
   {
     "agency": "Newark Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "3023667111",
+    "street": "220 South Main St",
+    "city": "Newark",
     "state": "DE",
-    "zip": ""
+    "zip": "19711"
   },
   {
     "agency": "Newport Police Department",
@@ -4625,11 +4553,11 @@
   },
   {
     "agency": "Wilmington Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "3026545151",
+    "street": "300 N Walnut St",
+    "city": "Wilmington",
     "state": "DE",
-    "zip": ""
+    "zip": "19801"
   },
   {
     "agency": "Wyoming Police Department",
@@ -4641,19 +4569,19 @@
   },
   {
     "agency": "District of Columbia Metropolitan Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "2027279099",
+    "street": "300 Indiana Ave NW",
+    "city": "Washington, DC",
     "state": "DC",
-    "zip": ""
+    "zip": "20001"
   },
   {
     "agency": "Metro Transit Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "2029622121",
+    "street": "5315 1st Pl NE",
+    "city": "Washington, DC",
     "state": "DC",
-    "zip": ""
+    "zip": "20011"
   },
   {
     "agency": "Miami-Dade Police Department",
@@ -8753,11 +8681,11 @@
   },
   {
     "agency": "Arlington Heights Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "8473685449",
+    "street": "200 E Sigwalt St",
+    "city": "Arlington Heights",
     "state": "IL",
-    "zip": ""
+    "zip": "60005"
   },
   {
     "agency": "Aroma Park Police Department",
@@ -8873,11 +8801,11 @@
   },
   {
     "agency": "Aurora Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "6302565000",
+    "street": "1200 E Indian Trail",
+    "city": "Aurora",
     "state": "IL",
-    "zip": ""
+    "zip": "60505"
   },
   {
     "agency": "Ava Police Department",
@@ -9065,11 +8993,11 @@
   },
   {
     "agency": "Belvidere Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "8155449626",
+    "street": "615 N Main St",
+    "city": "Belvidere",
     "state": "IL",
-    "zip": ""
+    "zip": "61008"
   },
   {
     "agency": "Bement Police Department",
@@ -9329,11 +9257,11 @@
   },
   {
     "agency": "Buffalo Grove Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "8474592560",
+    "street": "46 Raupp Blvd",
+    "city": "Buffalo Grove",
     "state": "IL",
-    "zip": ""
+    "zip": "60089"
   },
   {
     "agency": "Buffalo-Mechanicsburg Police Department",
@@ -9657,11 +9585,11 @@
   },
   {
     "agency": "Champaign Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "2173338911",
+    "street": "82 E University Ave",
+    "city": "Champaign",
     "state": "IL",
-    "zip": ""
+    "zip": "61820"
   },
   {
     "agency": "Chandlerville Police Department",
@@ -9753,27 +9681,27 @@
   },
   {
     "agency": "Chicago Heights Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "7087566400",
+    "street": "1601S Halsted St",
+    "city": "Chicago Heights",
     "state": "IL",
-    "zip": ""
+    "zip": "60411"
   },
   {
     "agency": "Chicago Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "3127466000",
+    "street": "3510 South Michigan Ave",
+    "city": "Chicago",
     "state": "IL",
-    "zip": ""
+    "zip": "60653"
   },
   {
     "agency": "Chicago Ridge Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "7084257831",
+    "street": "10425 S Ridgeland Ave",
+    "city": "Chicago Ridge",
     "state": "IL",
-    "zip": ""
+    "zip": "60415"
   },
   {
     "agency": "Chillicothe Police Department",
@@ -9801,11 +9729,11 @@
   },
   {
     "agency": "Cicero Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "7086522130",
+    "street": "4901 W Cermak Rd",
+    "city": "Cicero",
     "state": "IL",
-    "zip": ""
+    "zip": "60804"
   },
   {
     "agency": "Cissna Park Police Department",
@@ -9817,11 +9745,11 @@
   },
   {
     "agency": "Clarendon Hills Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "6302865460",
+    "street": "448 Park Ave",
+    "city": "Clarendon Hills",
     "state": "IL",
-    "zip": ""
+    "zip": "60514"
   },
   {
     "agency": "Clayton Police Department",
@@ -10105,35 +10033,35 @@
   },
   {
     "agency": "Decatur Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "2174242711",
+    "street": "707 W South Side Dr",
+    "city": "Decatur",
     "state": "IL",
-    "zip": ""
+    "zip": "62521"
   },
   {
     "agency": "Deer Creek-Goodfield Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "3094476265",
+    "street": "101 W First Ave",
+    "city": "Deer Creek",
     "state": "IL",
-    "zip": ""
+    "zip": "61733"
   },
   {
     "agency": "Deerfield Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "8479458636",
+    "street": "850 Waukegan Rd",
+    "city": "Deerfield",
     "state": "IL",
-    "zip": ""
+    "zip": "60015"
   },
   {
-    "agency": "Dekalb Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "agency": "DeKalb Police Department",
+    "phone": "8157488400",
+    "street": "700 W Lincoln Hwy",
+    "city": "DeKalb",
     "state": "IL",
-    "zip": ""
+    "zip": "60115"
   },
   {
     "agency": "Delavan Police Department",
@@ -10153,19 +10081,11 @@
   },
   {
     "agency": "Des Plaines Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "8473915400",
+    "street": "1418 Miner St",
+    "city": "Des Plaines",
     "state": "IL",
-    "zip": ""
-  },
-  {
-    "agency": "DeSoto Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
-    "state": "IL",
-    "zip": ""
+    "zip": "60016"
   },
   {
     "agency": "Divernon Police Department",
@@ -10417,11 +10337,11 @@
   },
   {
     "agency": "Elgin Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "8472892700",
+    "street": "151 Douglas Ave",
+    "city": "Elgin",
     "state": "IL",
-    "zip": ""
+    "zip": "60121"
   },
   {
     "agency": "Elizabeth Police Department",
@@ -10545,11 +10465,11 @@
   },
   {
     "agency": "Evanston Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "8478665000",
+    "street": "2100 Ridge Ave",
+    "city": "Evanston",
     "state": "IL",
-    "zip": ""
+    "zip": "60201"
   },
   {
     "agency": "Evansville Police Department",
@@ -11297,11 +11217,11 @@
   },
   {
     "agency": "Highland Park Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "8474327730",
+    "street": "1677 Old Deerfield Rd",
+    "city": "Highland Park",
     "state": "IL",
-    "zip": ""
+    "zip": "60035"
   },
   {
     "agency": "Highland Police Department",
@@ -11457,11 +11377,11 @@
   },
   {
     "agency": "Itasca Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "6307731004",
+    "street": "540 W Irving Park Rd",
+    "city": "Itasca",
     "state": "IL",
-    "zip": ""
+    "zip": "60143"
   },
   {
     "agency": "Jacksonville Police Department",
@@ -11505,11 +11425,11 @@
   },
   {
     "agency": "Joliet Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "8157262491",
+    "street": "150 W Washington St",
+    "city": "Joliet",
     "state": "IL",
-    "zip": ""
+    "zip": "60432"
   },
   {
     "agency": "Jonesboro Police Department",
@@ -11649,11 +11569,11 @@
   },
   {
     "agency": "La Salle Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "8152233755",
+    "street": "745 2nd St",
+    "city": "La Salle",
     "state": "IL",
-    "zip": ""
+    "zip": "61301"
   },
   {
     "agency": "Lacon Police Department",
@@ -12457,11 +12377,11 @@
   },
   {
     "agency": "Naperville Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "6304206665",
+    "street": "1350 Aurora Ave",
+    "city": "Naperville",
     "state": "IL",
-    "zip": ""
+    "zip": "60540"
   },
   {
     "agency": "Nashville Police Department",
@@ -12585,19 +12505,19 @@
   },
   {
     "agency": "North Aurora Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "6308978705",
+    "street": "200 S Lincolnway",
+    "city": "North Aurora",
     "state": "IL",
-    "zip": ""
+    "zip": "60542"
   },
   {
     "agency": "North Chicago Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "8475968700",
+    "street": "1850 Lewis Ave",
+    "city": "North Chicago",
     "state": "IL",
-    "zip": ""
+    "zip": "60064"
   },
   {
     "agency": "North Pekin Police Department",
@@ -12617,11 +12537,11 @@
   },
   {
     "agency": "Northbrook Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "8475642060",
+    "street": "1401 Landwehr Rd",
+    "city": "Northbrook",
     "state": "IL",
-    "zip": ""
+    "zip": "60062"
   },
   {
     "agency": "Northfield Police Department",
@@ -12641,11 +12561,11 @@
   },
   {
     "agency": "Oak Brook Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "6303688700",
+    "street": "1200 Oak Brook Rd",
+    "city": "Oak Brook",
     "state": "IL",
-    "zip": ""
+    "zip": "60523"
   },
   {
     "agency": "Oak Forest Police Department",
@@ -12665,11 +12585,11 @@
   },
   {
     "agency": "Oak Park Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "7083863800",
+    "street": "123 Madison St",
+    "city": "Oak Park",
     "state": "IL",
-    "zip": ""
+    "zip": "60302"
   },
   {
     "agency": "Oakbrook Terrace Police Department",
@@ -12953,19 +12873,19 @@
   },
   {
     "agency": "Peoria Heights Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "3096883461",
+    "street": "1311 E Sciota Ave",
+    "city": "Peoria Heights",
     "state": "IL",
-    "zip": ""
+    "zip": "61616"
   },
   {
     "agency": "Peoria Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "3096734521",
+    "street": "600 SW Adams St",
+    "city": "Peoria",
     "state": "IL",
-    "zip": ""
+    "zip": "61602"
   },
   {
     "agency": "Peotone Police Department",
@@ -13345,11 +13265,11 @@
   },
   {
     "agency": "Roselle Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "6309802025",
+    "street": "103 S Prospect St",
+    "city": "Roselle",
     "state": "IL",
-    "zip": ""
+    "zip": "60172"
   },
   {
     "agency": "Rosemont Police Department",
@@ -13497,11 +13417,11 @@
   },
   {
     "agency": "Schaumburg Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "8478954500",
+    "street": "1000 W Schaumburg Rd",
+    "city": "Schaumburg",
     "state": "IL",
-    "zip": ""
+    "zip": "60194"
   },
   {
     "agency": "Schiller Park Police Department",
@@ -13697,11 +13617,11 @@
   },
   {
     "agency": "Springfield Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "2177888311",
+    "street": "800 E Monroe St",
+    "city": "Springfield",
     "state": "IL",
-    "zip": ""
+    "zip": "62701"
   },
   {
     "agency": "St Charles Police Department",
@@ -13848,7 +13768,7 @@
     "zip": ""
   },
   {
-    "agency": "ycamore Police Department",
+    "agency": "Sycamore Police Department",
     "phone": "",
     "street": "",
     "city": "",
@@ -14009,11 +13929,11 @@
   },
   {
     "agency": "Urbana Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "2173842320",
+    "street": "400 S Vine St",
+    "city": "Urbana",
     "state": "IL",
-    "zip": ""
+    "zip": "61801"
   },
   {
     "agency": "Utica Police Department",
@@ -14217,11 +14137,11 @@
   },
   {
     "agency": "West Chicago Police Department",
-    "phone": "",
-    "street": "",
-    "city": "",
+    "phone": "6302932222",
+    "street": "325 Spencer St",
+    "city": "West Chicago",
     "state": "IL",
-    "zip": ""
+    "zip": "60185"
   },
   {
     "agency": "West Dundee Police Department",
