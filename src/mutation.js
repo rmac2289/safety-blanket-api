@@ -84,7 +84,7 @@ const resolvers = {
           currentFavs[idxToDelete],
         ];
         currentFavs.pop();
-        console.log(`${currentUser.favorites[idxToDelete]} deleted`);
+        console.log(`Successfully deleted.`);
         return User.updateOne(
           { userId: currentUser.userId },
           { favorites: currentFavs }
