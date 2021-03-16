@@ -15,7 +15,7 @@ const typeDefs = gql`
 const resolvers = {
   Query: {
     favorites: async (_, user) => {
-      let currentUser = await User.find({ userId: user.userId });
+      let currentUser = await User.find({ userId: user.email });
       return currentUser[0].favorites;
     },
     users: async () => await User.find({}).exec(),

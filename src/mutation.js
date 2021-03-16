@@ -24,7 +24,7 @@ const typeDefs = gql`
       state: String!
       zip: Int!
     ): Agency
-    addUser(userId: String!): User
+    addUser(email: String!): User
     addFavorite(userId: String!, favorites: FavoriteInput): User
     deleteFavorite(userId: String!, favorite: DeleteFavorite): User
   }
@@ -42,11 +42,18 @@ const resolvers = {
       }
     },
     addUser: async (_, user) => {
-      return await User.create(user);
+      try {
+        const exists = await User.exists(user);
+        if (!exists) {
+          return await User.create(user);
+        }
+      } catch (error) {
+        console.error(`User ${user.email} already exists.`);
+      }
     },
     addFavorite: async (_, user) => {
       try {
-        let currentUser = await User.findOne({ userId: user.userId });
+        let currentUser = await User.findOne({ id: user.id });
         for (let dept of currentUser.favorites) {
           if (
             dept.agency === user.favorites.agency &&
@@ -57,7 +64,7 @@ const resolvers = {
         }
         let newFavs = [...currentUser.favorites, user.favorites];
         return await User.updateOne(
-          { userId: currentUser.userId },
+          { id: currentUser.id },
           { favorites: newFavs }
         );
       } catch (error) {
@@ -66,7 +73,7 @@ const resolvers = {
     },
     deleteFavorite: async (_, user) => {
       try {
-        let currentUser = await User.findOne({ userId: user.userId });
+        let currentUser = await User.findOne({ id: user.id });
         let currentFavs = currentUser.favorites;
         let idxToDelete;
         for (let i = 0; i < currentFavs.length; i++) {
@@ -86,7 +93,7 @@ const resolvers = {
         currentFavs.pop();
         console.log(`Successfully deleted.`);
         return User.updateOne(
-          { userId: currentUser.userId },
+          { id: currentUser.id },
           { favorites: currentFavs }
         );
       } catch (e) {
