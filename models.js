@@ -10,7 +10,7 @@ const agencySchema = new Schema({
   zip: Number,
 });
 const userSchema = new Schema({
-  email: String,
+  userId: String,
   favorites: Array,
 });
 

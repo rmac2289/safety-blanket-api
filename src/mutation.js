@@ -24,7 +24,7 @@ const typeDefs = gql`
       state: String!
       zip: Int!
     ): Agency
-    addUser(email: String!): User
+    addUser(userId: String!): User
     addFavorite(userId: String!, favorites: FavoriteInput): User
     deleteFavorite(userId: String!, favorite: DeleteFavorite): User
   }
@@ -42,18 +42,11 @@ const resolvers = {
       }
     },
     addUser: async (_, user) => {
-      try {
-        const exists = await User.exists(user);
-        if (!exists) {
-          return await User.create(user);
-        }
-      } catch (error) {
-        console.error(`User ${user.email} already exists.`);
-      }
+      return await User.create(user);
     },
     addFavorite: async (_, user) => {
       try {
-        let currentUser = await User.findOne({ id: user.id });
+        let currentUser = await User.findOne({ userId: user.userId });
         for (let dept of currentUser.favorites) {
           if (
             dept.agency === user.favorites.agency &&
@@ -64,7 +57,7 @@ const resolvers = {
         }
         let newFavs = [...currentUser.favorites, user.favorites];
         return await User.updateOne(
-          { id: currentUser.id },
+          { userId: currentUser.userId },
           { favorites: newFavs }
         );
       } catch (error) {
@@ -73,7 +66,7 @@ const resolvers = {
     },
     deleteFavorite: async (_, user) => {
       try {
-        let currentUser = await User.findOne({ id: user.id });
+        let currentUser = await User.findOne({ userId: user.userId });
         let currentFavs = currentUser.favorites;
         let idxToDelete;
         for (let i = 0; i < currentFavs.length; i++) {
@@ -91,9 +84,9 @@ const resolvers = {
           currentFavs[idxToDelete],
         ];
         currentFavs.pop();
-        console.log(`Successfully deleted.`);
+        console.log(`${currentUser.favorites[idxToDelete]} deleted`);
         return User.updateOne(
-          { id: currentUser.id },
+          { userId: currentUser.userId },
           { favorites: currentFavs }
         );
       } catch (e) {

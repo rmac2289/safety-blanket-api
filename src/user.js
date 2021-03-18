@@ -12,7 +12,7 @@ const typeDefs = gql`
   }
   type User {
     id: ID
-    email: String!
+    userId: String
     favorites: [Favorite]
   }
 `;
