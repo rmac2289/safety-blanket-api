@@ -12,6 +12,7 @@ const server = new ApolloServer({
   resolvers: merge(queries, mutations),
   introspection: true,
   playground: true,
+  context: ({ req }) => console.log(req.headers),
 });
 
 server
